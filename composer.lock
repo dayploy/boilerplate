@@ -2675,12 +2675,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/thomasbeaujean/boilerplate-bundle.git",
-                "reference": "7dbb0dfb5149d295fa3c2d0bce5da58684df937d"
+                "reference": "acaef5c5e41c955766bd981e1577a10fc5cebf1a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thomasbeaujean/boilerplate-bundle/zipball/7dbb0dfb5149d295fa3c2d0bce5da58684df937d",
-                "reference": "7dbb0dfb5149d295fa3c2d0bce5da58684df937d",
+                "url": "https://api.github.com/repos/thomasbeaujean/boilerplate-bundle/zipball/acaef5c5e41c955766bd981e1577a10fc5cebf1a",
+                "reference": "acaef5c5e41c955766bd981e1577a10fc5cebf1a",
                 "shasum": ""
             },
             "require": {
@@ -2696,9 +2696,9 @@
             "notification-url": "https://packagist.org/downloads/",
             "support": {
                 "issues": "https://github.com/thomasbeaujean/boilerplate-bundle/issues",
-                "source": "https://github.com/thomasbeaujean/boilerplate-bundle/tree/1.0.0"
+                "source": "https://github.com/thomasbeaujean/boilerplate-bundle/tree/main"
             },
-            "time": "2024-03-06T22:32:49+00:00"
+            "time": "2024-03-22T19:28:54+00:00"
         },
         {
             "name": "twig/extra-bundle",

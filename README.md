@@ -6,9 +6,8 @@ A docker tools to generate source code.
 
 ```
     docker run -it \
-        --volume ./myPath/boilerplate.yaml:/srv/app/config/packages/dev/boilerplate.yaml  \
-        --volume ./myPath/templates:/srv/app/templates  \
-        --volume ./myPath/src:/srv/app/src  \
-        --volume ./myPath/tests:/srv/app/tests  \
+        --volume ./myPath/boilerplate.yaml:/opt/config/packages/dev/boilerplate.yaml  \
+        --volume ./myPath/templates:/opt/templates  \
+        --volume ./:/srv/app  \
         tbeaujean/boilerplate
 ```

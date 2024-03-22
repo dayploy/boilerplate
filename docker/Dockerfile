@@ -1,6 +1,6 @@
 FROM php:cli
 
-WORKDIR /srv/app
+WORKDIR /opt
 
 COPY .env .env
 COPY bin bin
